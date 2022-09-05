@@ -42,6 +42,6 @@ On the other hand, you can filter data using query strings.
 | GET | {{baseUrl}}/movies?genre=Drama |
 | GET | {{baseUrl}}/movies?title=Equalizer&genre=Action |
 
-## License
+## License.
 
 MIT
